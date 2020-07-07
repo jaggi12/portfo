@@ -1,0 +1,3 @@
+email,subject,message
+jagannathanriv@gmail.com,nice,hi
+vi@gmail.com,python dev,hi python-dev, how are you? hope to see you one day.
